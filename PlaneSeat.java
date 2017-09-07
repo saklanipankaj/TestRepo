@@ -1,5 +1,5 @@
 
-public class PlaneSeat {
+public class PlanePLANE {
 	private int seatId;
 	private boolean assigned;
 	private int customerId;
